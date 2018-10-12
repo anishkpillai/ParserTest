@@ -1,4 +1,4 @@
-package jsonmodel;
+package com.parser.widget.jsonmodel;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 
